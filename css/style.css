@@ -57,7 +57,7 @@ body, html{
 }
 .pimg9{
     background-image: url('/img/contactme.jpg');
-    min-height: 400px;
+     min-height: 100%;
 }
 .section{
     text-align: center;
