@@ -5,6 +5,6 @@ In 2000 a Swiss foundation launched a campaign to determine the New Seven Wonder
 
 
 # Tools
-VScode
+VScode /n
 Live Server
 
