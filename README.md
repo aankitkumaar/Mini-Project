@@ -9,3 +9,10 @@ VScode
 #
 Live Server
 
+# Discription
+This page gives a short overview of the world's 7 wonders of the world.
+
+#
+Project Created by @aankitkumaar
+
+
