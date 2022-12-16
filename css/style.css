@@ -106,3 +106,10 @@ a:hover{
         background-attachment: scroll;
     }
 }
+@media(max-width:700px) {
+    .border
+    {
+        font-size: 10px;
+    } 
+    
+}
